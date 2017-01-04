@@ -1,0 +1,487 @@
+img { border:0px; }
+
+#header {
+	width: 950px;
+	float:left;
+	background-color: #494B2A;
+}
+.botones {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	border-radius:7px;
+	font-weight:bold;
+	color: #333;
+	padding: 4px 7px;
+	border: 1px solid #D6D6D6;
+	background: url(../admin/fb.png) top repeat-x;
+	min-height:20px;
+	cursor:pointer;
+	min-width:100px;
+	
+	
+}
+.botonesz {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-radius: 0px;
+	color: #FFF;
+	padding: 4px 7px;
+	border: 0px;
+	min-height: 20px;
+	cursor: pointer;
+	min-width: 60px;
+	background-color: #C51230;
+}
+
+
+.botones:hover { 
+	font-weight:bold;
+	color: #000; 
+	border: 1px solid #000000;
+	background: url(../admin/fbx.png) bottom repeat-x;
+	min-height:20px
+	
+	
+}
+
+body {
+	background-color:#e2e2e2;
+}
+/*font-family: 'Arimo', sans-serif; -> Trebuchet MS
+
+font-family: 'Voltaire', sans-serif; -> Grotesque MT Std
+
+font-family: 'Oswald', sans-serif; -> Trebuchet MS **
+
+font-family: 'Shanti', sans-serif; -> Helvetica*
+
+*/.Trebuchet12Bca {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.Trebuchet12Amarillo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #E5B449;
+}
+.Trebuchet12Amzul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3B4B57;
+}
+.Trebuchet14Amzul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #3B4B57;
+}
+
+.Trebuchet16Amzul {
+	font-family: Voltaire;
+	font-size: 16px;
+	color: #3B4B57;
+}
+
+
+.Voltaire16Bco
+{
+	font-size: 16px;
+	font-family: 'Voltaire', sans-serif;
+	color: #FFF;
+}
+.Voltaire29Azul {
+	font-size: 28px;
+	font-family: 'Voltaire', sans-serif;
+	color: #3B4B57;
+}
+.Voltaire18Azul {
+	font-size: 17px;
+	font-family: 'Voltaire', sans-serif;
+	color: #3B4B57;
+}
+
+
+.Helvetica12Bca {
+	font-size: 12px;
+	color: #FFF;
+	font-family: Helvetica, Arial;
+}
+.Helvetica09Gris {
+	font-size: 10px;
+	color: #5B5B5F;
+	font-family: Helvetica, Arial;
+}
+.Helvetica09Ama {
+	font-size: 10px;
+	color: #E5B449;
+	font-family: Helvetica, Arial;
+}
+.Helvetica12Ama {
+	font-size: 10px;
+	color: #E5B449;
+	font-family: Helvetica, Arial;
+}
+
+.Helvetica09GrisCafe {
+	font-size: 10px;
+	color: #A6A191;
+	font-family: Helvetica, Arial;
+}
+
+
+.Helvetica12Gris {
+	font-size: 12px;
+	color: #5B5B5F;
+	font-family: Helvetica, Arial;
+}
+.Helvetica12azul {
+	font-size: 12px;
+	color: #3B4B57;
+	font-family: Helvetica, Arial;
+}
+.Helvetica14azul {
+	font-size: 13px;
+	color: #3B4B57;
+	font-family: Helvetica, Arial;
+}
+
+
+
+.Trebrucred12Azul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #3B4B57;
+}
+.Trebrucred24Azul {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #3B4B57;
+}
+
+.Trebruched16Bca {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+}
+
+
+
+a{
+	text-decoration:none; }
+.calibri18 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	text-transform: capitalize;
+}
+.Arial16Ama {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FF9900;
+}
+.Arial14amaff99 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF9900;
+}
+
+
+.calibri22ama {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #FF9900;
+	text-transform: capitalize;
+}
+.calibri22azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	color: #0D8ACA;
+	text-transform: capitalize;
+	font-weight: lighter;
+}
+
+
+
+a:link{
+	text-decoration:none; }
+.Arial15Azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #01336A;
+	text-decoration: none;
+}
+.Arial11Rojo {
+}
+
+
+.fotoyvideo {
+	font-family: Calibri, Arial, "trebuchet MS";
+	font-size: 50px;
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration:underline; }
+.arial13Bco {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+}
+.verdana11Gris {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #333;
+}
+.AriaHelve25Bca {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #FFF;
+}
+
+.arial11GrisResumen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+}
+.georgia26Azul {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 26px;
+	color: #0D3459;
+}
+.arial27Bco {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 27px;
+	color: #FFF;
+}
+
+.arial11Negro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000;
+	/* [disabled]min-height: 225px; */
+}
+.arial11Gris999 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666;
+	/* [disabled]min-height: 225px; */
+}
+
+.georgia19Gris {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 19px;
+	color: #333333;
+}
+.Arial11RojoM {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: uppercase;
+	color: #800000;
+	text-decoration: none;
+}
+
+.georgia21AzulC {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 21px;
+	color: #94CAFE;
+}
+.georgia21Bco {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 21px;
+	color: #FFF;
+}
+
+.georgia12azulK {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: italic;
+	color: #0D3459;
+}
+.arial14Amarillo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFB23F;
+}
+
+.arial14Azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #494B2A;
+	/* [disabled]margin: 5px 0; */
+}
+.arial14Negro {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	/* [disabled]margin: 5px 0; */
+}
+
+.arial11Gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	/* [disabled]margin: 5px 0; */
+}
+
+
+
+.hevel11Gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: none;
+	color: #2D2D2D;
+}
+.Hevel16Gris {
+	font-family: Helvetica, Calibri, Verdana;
+	font-size: 16px;
+	color: #333333;
+}
+
+.Arial12Gris {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.Verdana16Ngo {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #000;
+}
+
+.calibri18Azul {
+	font-family: Calibri, Arial, "trebuchet MS";
+	font-size: 18px;
+	color: #023854;
+}
+
+.Arial12Gris666 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+.arial11Naranja {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF6633;
+}
+.Georgia17Azul {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 17px;
+	color: #416A94;
+	text-transform: uppercase;
+}
+
+.Arial12Azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #006699;
+}
+.Arial11Azul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #012147;
+}
+
+
+.arial12Nja {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF9900;
+}
+.arial11Bco {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+}
+.RaroAzugris18 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #465A6F;
+}
+.arial12gris666 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #666666;
+}
+.paginadores{
+	font-family:Helvetica, Arial;
+	font-size:12px;
+	color: #FFFFFF;
+	text-decoration:none;
+	background-color: #F5B63D;
+	}
+.paginadores:hover{
+	color: #434D58;
+	text-decoration:underline;
+	}
+a:hover{text-decoration:underline;}
+.arial13amarillo{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#FFA108;text-decoration:none;}
+.arial12Gris{font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#333333;text-decoration:none;}
+.arial11Gris{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#333333;text-decoration:none;}
+.arial11Negro{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#000;text-decoration:none;}
+.arial13Negro{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;text-decoration:none;}
+.verdana14negro{font-family:Verdana, Geneva, sans-serif;font-size:14px;color:#000;text-decoration:none;}
+.verdana12negro{font-family:Verdana, Geneva, sans-serif;font-size:12px;color:#000;text-decoration:none;}
+.arial12Bco{font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#FFF;text-decoration:none;}
+.arial14Azul{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#494B2A;
+	text-decoration:none;
+}
+.arial13naranja{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#FF6600;text-decoration:none;}
+.notas4{min-height:220 .px;min-height:220px;}
+.arial13Azul{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#336699;text-decoration:none;}
+.arial25Azul{font-family:Arial, Helvetica, sans-serif;font-size:25px;color:#CC6600;text-decoration:none;}
+.arial13GrisC{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#999999;text-decoration:none;}
+.arial13GrisCBB{font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#666666;text-decoration:none;}
+.arial11NegroBold{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#000;text-decoration:none;font-weight:bold;}
+.inputsDeTexto  {
+	min-width: 30px;
+	border: 1px solid #909090;
+	border-radius: 5px;
+	padding: 2px;
+	text-align: left;
+	width: 100%;
+}
+.cok {
+	min-width: 30px;
+	border: 1px solid #006600;
+	border-radius: 5px;
+	padding: 2px;
+	text-align: left;
+	width: 100%;
+	color: #060;
+	background-color: #C1FFC1;
+}
+.cerror {
+	min-width: 30px;
+	border: 1px solid #990000;
+	border-radius: 5px;
+	padding: 2px;
+	text-align: left;
+	width: 100%;
+	color: #900;
+	background-color: #FFC6C6;
+}
+.cinchek {
+	min-width: 30px;
+	border: 1px solid #f30;
+	border-radius: 5px;
+	padding: 2px;
+	text-align: left;
+	width: 100%;
+	color: #F30;
+	background-color: #FFFFA6;
+}

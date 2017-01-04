@@ -1,0 +1,28 @@
+[30-Aug-2012 18:31:41] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:31:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:31:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:31:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:31:46] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:31:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:31:52] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:31:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:33:43] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:33:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:34:11] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:34:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:37:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:37:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:37:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:37:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:37:33] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:37:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:38:52] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:38:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:38:54] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:38:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:38:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:38:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:43:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:43:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75
+[30-Aug-2012 18:43:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/firewall/public_html/ivec/admina/db.class.php on line 52
+[30-Aug-2012 18:43:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/firewall/public_html/ivec/admina/db.class.php on line 75

@@ -1,0 +1,71 @@
+exampleCropper1 = new uvumiCropper('example1');
+exampleCropper2 = new uvumiCropper('example2',{
+	preview:'previewExample2',
+	keepRatio:true,
+	handles:[
+		['top','left'],
+		['top','right'],
+		['bottom','left'],
+		['bottom','right']
+	],
+	coordinates:true
+});
+exampleCropper3 = new uvumiCropper('example3',{
+	maskOpacity:0.3,
+	maskClassName:'blueMask',
+	resizerClassName:'yellowSelection',
+	mini:{
+		x:120,
+		y:90
+	},
+	handles:false,
+	downloadButton:'Crop!'
+});
+exampleCropper4 = new uvumiCropper('example4',{
+	onComplete:function(top,left,width,height){
+		$('input_top').set('value',top);
+		$('input_left').set('value',left);
+		$('input_width').set('value',width);
+		$('input_height').set('value',height);
+	},
+	preview:true,
+	coordinatesOpacity:1
+}); 
+window.addEvent('domready',function(){
+	var myCropper = false;
+	$('create-crop').addEvent('click',function(){
+		if(!myCropper){
+			myCropper = new uvumiCropper('target_image',{
+				preview:true,
+				coordinates:true,
+				saveButton:true,
+				downloadButton:true
+			});
+			$('show-crop').addEvent('click',myCropper.toggle.bind(myCropper));
+		}else{
+			myCropper.show();
+		}
+	}).fireEvent('click');
+	$('destroy-crop').addEvent('click',function(){
+		if(myCropper){
+			myCropper.destroy();
+			myCropper=false;
+			$('show-crop').removeEvent('click');
+		}
+	});
+	picArray=[
+		'http://img.uvumi.com/tools/ben-clapp.jpg',
+		'http://img.uvumi.com/tools/scott-h-biram.jpg',
+		'http://img.uvumi.com/tools/mcfadden.jpg',
+		'http://img.uvumi.com/tools/rockers.jpg',
+		'http://img.uvumi.com/tools/gibson-rock-out-800.jpg'
+	];
+	$('change-pic').addEvent('click',function(){
+		if(myCropper){
+			myCropper.changeImage(picArray[$random(0,picArray.length-1)]);
+		}
+	});
+	$('croplastexample').addEvent('click',function(){
+		exampleCropper4.cropSave();
+	});
+});

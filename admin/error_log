@@ -1,0 +1,5 @@
+[22-Aug-2012 17:04:44] PHP Warning:  include(xml.php) [<a href='function.include'>function.include</a>]: failed to open stream: No existe el fichero o el directorio in /home/firewall/public_html/ivec/admin/vernota.php on line 12
+[22-Aug-2012 17:04:44] PHP Warning:  include(xml.php) [<a href='function.include'>function.include</a>]: failed to open stream: No existe el fichero o el directorio in /home/firewall/public_html/ivec/admin/vernota.php on line 12
+[22-Aug-2012 17:04:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'xml.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/firewall/public_html/ivec/admin/vernota.php on line 12
+[12-Sep-2012 13:54:01] PHP Warning:  POST Content-Length of 154094569 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[12-Sep-2012 13:54:14] PHP Warning:  POST Content-Length of 154094569 bytes exceeds the limit of 67108864 bytes in Unknown on line 0

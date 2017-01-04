@@ -12,6 +12,7 @@
 *.bmp
 *.mp3
 *.pptx
+*.ppt
 *.rar
 *.rtf
 *.sample
@@ -23,6 +24,8 @@
 *.xlsx
 *.xps
 *.zip
+*.doc
+*.docx
 
 
 # Auto detect text files and perform LF normalization
